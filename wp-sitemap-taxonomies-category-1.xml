@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://timmitra.com/wp-sitemap.xsl" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://timmitra.com/category/uncategorized/</loc></url><url><loc>https://timmitra.com/category/blogroll/</loc></url><url><loc>https://timmitra.com/category/iphone-intro/</loc></url><url><loc>https://timmitra.com/category/annoyances/</loc></url><url><loc>https://timmitra.com/category/articles/</loc></url></urlset>
+<?xml-stylesheet type="text/xsl" href="https://www.timmitra.com/wp-sitemap.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.timmitra.com/category/uncategorized/</loc></url><url><loc>https://www.timmitra.com/category/blogroll/</loc></url><url><loc>https://www.timmitra.com/category/iphone-intro/</loc></url><url><loc>https://www.timmitra.com/category/annoyances/</loc></url><url><loc>https://www.timmitra.com/category/articles/</loc></url></urlset>
 <!-- WP Super Cache is installed but broken. The constant WPCACHEHOME must be set in the file wp-config.php and point at the WP Super Cache plugin directory. -->
